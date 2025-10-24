@@ -1,6 +1,6 @@
 # WBTC Airdrop Bot
 
-A Python bot that scans token holders and performs automated WBTC airdrops based on their token holdings percentage. The bot runs in 20-second cycles, distributing 0.2 WBTC total per cycle.
+A Python bot that scans token holders and performs automated WBTC airdrops based on their token holdings percentage. The bot runs in 20-minute cycles, distributing 0.2 WBTC total per cycle.
 
 ## Features
 
