@@ -6,7 +6,7 @@ A Python bot that scans token holders and performs automated WBTC airdrops based
 
 - 🔍 **Token Holder Analysis**: Scans any Solana token contract for holders
 - 💰 **Percentage-Based Distribution**: Distributes WBTC based on token holdings percentage
-- ⏰ **Automated Cycles**: Runs every 20 seconds (configurable)
+- ⏰ **Automated Cycles**: Runs every 20 minutes (configurable)
 - 🛡️ **Whale Protection**: Excludes holders with too many tokens
 - 📊 **Real-time Monitoring**: Live logging and progress tracking
 - 🔒 **Secure**: No hardcoded keys or sensitive information
